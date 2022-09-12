@@ -1,0 +1,25 @@
+body{
+    color: bisque;
+    background: url("/2942699.jpg");
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.reg{
+    width: 500px;
+    margin: 250px auto;
+    background-color:rgba(2,4,6,.5);
+    padding: 10px 30px 30px;
+    font-size: 30px;
+}
+.reg h2{
+    color: cadetblue;
+    text-align: center;
+    
+}
+.reg .er{
+    display: block;
+}
+.but{
+    text-align: center;
+   
+   color: brown;
+}
